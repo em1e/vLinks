@@ -2,7 +2,7 @@
   
 # vLinks
 
-```asciidoc
+```
  - - - - Deliverables - - - - 
 Complete Java project with source code
 Built plugin JAR file
