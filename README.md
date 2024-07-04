@@ -33,8 +33,8 @@ vLinks is a simple test plugin, which I made to practice the API syntax.
 
 #### ` /links ` : Opens a GUI of useful links.
 - can also take the following arguments:
-  - `youtube` -> Open youtube
-  - `website` -> Open the website
+  - `youtube` -> Open Youtube
+  - `instagram` -> Open Instagram
   - `github` -> Open Github
   - `discord` -> Discord server invite
   - `help` -> run /help command
