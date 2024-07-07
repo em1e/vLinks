@@ -29,7 +29,7 @@ vLinks is a simple test plugin, which I made to practice the API syntax.
 <br>
 
 ## 🛠️ Commands:
-#### ` /giveflower ` : Gives the player a magical flower (test it out for yourself)
+#### ` /flower ` : Gives the player a magical flower (test it out for yourself)
 
 #### ` /links ` : Opens a GUI of useful links.
 - can also take the following arguments:
