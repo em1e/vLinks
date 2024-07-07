@@ -1,0 +1,16 @@
+name: vLinks
+version: '${project.version}'
+main: me.mie.vlinks.main
+api-version: '1.20'
+commands:
+  links:
+    description: A list of all useful links
+    usage: /<command>
+  staff_handbook:
+    description: Link to the staff handbook
+    usage: /<command>
+    aliases:
+      - handbook
+  flower:
+    description: Gives a magical flower
+    usage: /<command>
