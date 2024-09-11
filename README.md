@@ -24,7 +24,7 @@ Clean, well-documented, and maintainable code
 <br>
 
 ## 🛠️ What is vLinks?
-vLinks is a simple test plugin, which I made to practice the API syntax.
+vLinks is a simple test plugin used on a 1.20.6 test server, which I made to practice the API syntax.
 
 <br>
 
